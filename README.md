@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @aeidea1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-aeidea1/aeidea1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Привет, я @aeidea1  
+- 👀 Я интересуюсь программированием, веб-разработкой (как Frontend, так и Backend), дизайном и иногда DataScience. Мне нравится работать с различными технологиями, такими как C#, HTML, JS, CSS, PHP и фреймворками, включая Node.js, React.js и Bootstrap.  
+- 🌱 В данный момент я изучаю и развиваю навыки в C#, JavaScript, HTML, CSS, CMS, Git, Node.js, а также React.js и других современных библиотеках.  
+- 💞️ Ищу возможности для совместной работы над интересными проектами в области веб-разработки, особенно там, где требуется комплексное программирование и дизайн.  
+- 📫 Как со мной связаться: sembaevaman213@gmail.com, aman.semb@yandex.ru  
+- 😄 Местоимения: он/его  
+- ⚡ Интересный факт: Я трудолюбив и настойчив, всегда готов изучать новые технологии и инструменты!
