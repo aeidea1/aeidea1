@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  Дипломный проект - <a href="[manageko-learn.vercel.app](https://manageko-learn.vercel.app/)">Manageko Learn</a>
+  Дипломный проект - <a href="https://manageko-learn.vercel.app/">Manageko Learn</a>
 </p>
 
 <p align="center">
