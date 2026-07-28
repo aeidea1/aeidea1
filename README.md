@@ -33,14 +33,6 @@
 
 ---
 
-### 📌 Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [RestrictionManager](https://github.com/aeidea1/RestrictionManager) | GUI-утилита для управления ограничениями локальных учётных записей Windows без Active Directory | C# · WPF · .NET 8 |
-| [manageko.learn](https://github.com/aeidea1/manageko.learn) | Manageko Learn — образовательная платформа (LMS) для создания и прохождения онлайн-курсов. Проект разработан в качестве дипломной работы по специальности 09.02.07 «Информационные системы и программирование». | React · TypeScript · Node.js |
-
----
 
 ### 📊 Stats
 
