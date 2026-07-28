@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm aeideal 👋</h1>
 
 <p align="center">
-  IT Administrator · Web Developer · Drone Operator
+  DevOps · Web Dev
 </p>
 
 <p align="center">
@@ -29,23 +29,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-</p>
-
----
-
-
-### 📊 Stats
-
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=aeidea1&show_icons=true&theme=dracula&count_private=true&hide=contribs"/>
-  &nbsp;
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeidea1&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aeidea1&color=blueviolet&style=flat-square" alt="profile views"/>
 </p>
